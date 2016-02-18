@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FollowCam.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FollowCam.cs" Line="27" Column="26" />
+      <File FileName="Assets\Scripts\Slingshot.cs" Line="74" Column="35" />
+      <File FileName="Assets\Scripts\ProjectileLine.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Goal.cs" Line="11" Column="4" />
+      <File FileName="Assets\Scripts\MissionDemolition.cs" Line="120" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
